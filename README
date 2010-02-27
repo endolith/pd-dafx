@@ -1,10 +1,11 @@
 This package contains a set of pd / puredata (these terms are so hard
 to find on the web its not even funny!) abstractions for demoing
 digital audio effects, plotting signal, Fourier spectra, computing
-impulse resonses, and more.
+impulse responses, and more.
 
-Some abstractions depend on the expr/fexpr library
-(http://www.crca.ucsd.edu/~yadegari/expr.html).
+Some abstractions depend on the expr/fexpr library, which is included in pd-extended:
+ - http://www.crca.ucsd.edu/~yadegari/expr.html
+ - https://sourceforge.net/projects/pure-data/
 
 Copyright 2010 Ron Weiss <ronw@nyu.edu>
 
